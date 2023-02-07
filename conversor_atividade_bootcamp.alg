@@ -13,8 +13,8 @@ m3 <- 0
 
 repita
    escreval("Bem vindo ao conversor! Digite:")
-   escreval("1 para converter quilômetros em metros.")
-   escreval("2 para converter metros cúbicos em litros.")
+   escreval("1 para converter quilômetros em metros!!!!")
+   escreval("2 para converter metros cúbicos em litros....")
    escreval("3 para sair do conversor.")
    leia(opcao)
    se opcao = "1" entao
