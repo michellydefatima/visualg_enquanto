@@ -4,12 +4,14 @@ algoritmo "conversor_atividade_Bootcamp"
 // Data : 01/02/2023
 var
 opcao: literal
-metro, km, litro, m3: real
+metro, km, litro, m3, ano, mes: real
 inicio
 metro <- 0
 km <- 0
 litro <- 0
 m3 <- 0
+ano <- 0
+mes <- 0
 
 repita
    escreval("Bem vindo ao conversor! Digite:")
